@@ -4,3 +4,4 @@ y=x+6
 print x
 
 y = 6
+z=12
